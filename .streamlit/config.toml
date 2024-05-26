@@ -11,8 +11,6 @@ secondaryBackgroundColor = "#D2DAFF"  # Lighter purple
 # Color used for almost all text.
 textColor = "#333333"  # Dark gray for better readability
 
-# Accent color for highlights and buttons.
-accentColor = "#AAC4FF"  # Medium light purple
 
 
 
