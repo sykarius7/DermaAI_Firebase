@@ -1,0 +1,75 @@
+[theme]
+# Primary accent color for interactive elements.
+primaryColor = "#B1B2FF"  # Light purple
+
+# Background color for the main content area.
+backgroundColor = "#EEF1FF"  # Very light purple
+
+# Background color used for the sidebar and most interactive widgets.
+secondaryBackgroundColor = "#D2DAFF"  # Lighter purple
+
+# Color used for almost all text.
+textColor = "#333333"  # Dark gray for better readability
+
+# Accent color for highlights and buttons.
+accentColor = "#AAC4FF"  # Medium light purple
+
+
+
+
+#[theme]
+# Primary accent color for interactive elements.
+#primaryColor = "#004466"
+
+# Background color for the main content area.
+#backgroundColor = "#F5F5F5"
+
+# Background color used for the sidebar and most #interactive widgets.
+#secondaryBackgroundColor = "#C0D6DF"
+
+# Color used for almost all text.
+#textColor = "#333333"
+
+# Accent color for highlights and buttons.
+#accentColor = "#FF6F61"
+
+# Font family for all text in the app, except code #blocks. One of "sans serif", "serif", or #"monospace".
+#font = "sans serif"
+
+
+# [theme]
+# # Primary accent color for interactive elements.
+# primaryColor = "#ACE1AF"  # Light green
+
+# # Background color for the main content area.
+# backgroundColor = "#E0FBE2"  # Very light green
+
+# # Background color used for the sidebar and most interactive widgets.
+# secondaryBackgroundColor = "#BFF6C3"  # Lighter green
+
+# # Color used for almost all text.
+# textColor = "#333333"  # Dark gray for better readability
+
+# # Accent color for highlights and buttons.
+# accentColor = "#B0EBB4"  # Medium light green
+
+# # Font family for all text in the app, except code blocks. One of "sans serif", "serif", or "monospace".
+# font = "sans serif"
+
+
+# [theme]
+# # Primary accent color for interactive elements.
+# primaryColor = "#000000"
+
+# # Background color for the main content area.
+# backgroundColor = "#0AA9FF"
+
+# # Background color used for the sidebar and most interactive widgets.
+# secondaryBackgroundColor = "#0083B8"
+
+# # Color used for almost all text.
+# textColor = "#FFF"
+
+# # Font family for all text in the app, except code blocks. One of "sans serif", "serif", or "monospace".
+# # Default: "sans serif"
+# font = "sans serif"

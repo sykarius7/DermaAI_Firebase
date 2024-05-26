@@ -1,0 +1,8 @@
+streamlit
+tensorflow==2.15.0
+numpy
+pillow
+google.generativeai
+python-dotenv
+firebase-admin==12.1.1
+reportlab
