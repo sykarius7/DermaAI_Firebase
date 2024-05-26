@@ -243,7 +243,7 @@ def main_page():
             st.success("Photo uploaded successfully")
             st.image(image1, caption='Uploaded Image', use_column_width=True)
             st.write('Classifying...')
-            model = load_model('C:\\Users\\Ahobilesha\\OneDrive\\Desktop\\DermAI_Firebase\\bestmodel1.h5')
+            model = load_model('bestmodel1.h5')
             predicted_class = predict_image_class(model, image1)
             st.success(f'Predicted Class: {predicted_class}')
             st.session_state['uploaded_image'] = image1
